@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>story on A Hugo website</title>
+    <link>/tags/story/</link>
+    <description>Recent content in story on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A success Story</title>
+      <link>/2020/05/12/a-success-story/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/12/a-success-story/</guid>
+      <description>Corrona testToday I have visited many r tools to analyse corona data. Most useful post was by Dr. Bhdarenda Rao. He explain corona.analysis library.
+a=seq(-10.0,10.0,length.out = 100)plot(a,sin(a),&amp;#39;l&amp;#39;)</description>
+    </item>
+    
+  </channel>
+</rss>
